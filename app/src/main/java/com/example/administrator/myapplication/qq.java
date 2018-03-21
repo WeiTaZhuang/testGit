@@ -5,4 +5,8 @@ package com.example.administrator.myapplication;
  */
 
 public class qq {
+
+    int anInt;
+    int anInt1;
+
 }
